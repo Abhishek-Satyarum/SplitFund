@@ -1,7 +1,7 @@
 # backend/app.py
 from flask import Flask, request, jsonify
 from flask_cors import CORS
-from database import init_db, get_db_connection
+from models.database import Base, engine, SessionLocal
 from services.splitter import compute_splits
 import os
 
@@ -264,3 +264,4 @@ def transactions():
 
 if __name__ == "__main__":
     app.run(debug=True, port=int(os.environ.get("PORT", 5000)))
+
