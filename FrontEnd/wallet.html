@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Wallet</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<h2>Wallet – Add Money</h2>
+
+<div class="card">
+    <label>Name:</label>
+    <input type="text" id="w_name">
+
+    <label>Group ID:</label>
+    <input type="number" id="w_group">
+
+    <label>Amount:</label>
+    <input type="number" id="w_amount">
+
+    <button onclick="addMoney()">Add Balance</button>
+</div>
+
+<hr>
+
+<h2>Group Summary</h2>
+
+<div class="card">
+    <label>Group ID:</label>
+    <input type="number" id="sum_group">
+    <button onclick="getSummary()">Get Summary</button>
+
+    <pre id="summary_output"></pre>
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>
