@@ -51,6 +51,6 @@ To run the project in a local environment, follow these steps:
 ## 🚕 Google Drive Link
 
 https://docs.google.com/presentation/d/1xWIaOF4sH1He8bPBjIsLWh8VemTpQhxU/edit?usp=sharing&ouid=112557718315612641662&rtpof=true&sd=true
-
+https://www.canva.com/design/DAGyrvon8qM/e5ScoLOVtYDdTtFWvOvLfg/view?utm_content=DAGyrvon8qM&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h94ff75fa9f
 
 
