@@ -52,8 +52,5 @@ To run the project in a local environment, follow these steps:
 
 
 
-## 🪄 PowerPoint Presentation
-
-[Problem Statement ID – Problem Statement Title- Theme- PS Category- SoftwareHardware Team ID- Team Name (Registered on portal).pdf](https://github.com/user-attachments/files/23760487/Problem.Statement.ID.Problem.Statement.Title-.Theme-.PS.Category-.SoftwareHardware.Team.ID-.Team.Name.Registered.on.portal.pdf)
 
 
