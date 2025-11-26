@@ -1,6 +1,6 @@
 # 💸 SplitFund
 
-SplitFund is used to tracks shared expenses in real time using smart splitting logic, without handling any actual money. The core idea is to create a digital ledger system where users form groups for trips or events, virtually "pledge" an amount they agree to contribute, and then log expenses as they happen in real life.
+SplitFund is a smart group expense manager that uses a virtual “Group Wallet” and weighted splitting to handle real-life scenarios like families, couples, and singles travelling or dining together. Instead of entering expenses only after the trip, SplitFund helps you track and split costs fairly in near real time, without moving any real money.
 
 ## 😇 Technologics
 
