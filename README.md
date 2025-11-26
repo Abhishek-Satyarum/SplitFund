@@ -1,12 +1,12 @@
 # 💸 SplitFund
 
-SplitFund is a smart group expense manager that uses a virtual “Group Wallet” and weighted splitting to handle real-life scenarios like families, couples, and singles travelling or dining together. Instead of entering expenses only after the trip, SplitFund helps you track and split costs fairly in near real time, without moving any real money.
+**SplitFund** is a smart group expense manager that uses a virtual “Group Wallet” and weighted splitting to handle real-life scenarios like families, couples, and singles travelling or dining together. Instead of entering expenses only after the trip, SplitFund helps you track and split costs fairly in near real time, without moving any real money.
 
 ## 😇 Technologics
 
-- FrontEnd:  HTML, CSS, JavaScript
-- BackEnd: Python (Flask)
-- DataBase: SQLAlchemy
+- **FrontEnd**:  HTML, CSS, JavaScript
+- **BackEnd**: Python (Flask)
+- **DataBase**: SQLAlchemy
 
 ## 🤩 Features
 
