@@ -46,7 +46,7 @@ To run the project in a local environment, follow these steps:
 
 1. Clone the repository to your local machine.
 2. Download "`Live Server`" extension from Extensions in Visual Studio Code for easily executing the code.
-3. Open the `URL address` shown in your console to your browser to view the app.(Like [http://localhost:5170]())
+3. Open the `URL address` shown in your console to your browser to view the app. (Like [http://localhost:5170]())
 
 ## PowerPoint Presentation
 
