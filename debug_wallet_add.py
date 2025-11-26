@@ -1,12 +1,5 @@
-import urllib.request, json
-url='http://localhost:5500/wallet/add'
-payload=json.dumps({'name':'Alice','group_id':101,'amount':100}).encode()
-req=urllib.request.Request(url,data=payload,headers={'Content-Type':'application/json'})
-try:
-    resp=urllib.request.urlopen(req)
-    print('OK', resp.read().decode())
-except urllib.error.HTTPError as e:
-    body=e.read().decode()
-    print('HTTPError', e.code, body)
-except Exception as e:
-    print('Error', e)
+"""
+debug_wallet_add.py was a small debug helper used during development.
+It has been removed/archived as part of cleanup to keep the repo tidy.
+If you need it preserved, restore from version control or re-generate a new helper.
+"""
